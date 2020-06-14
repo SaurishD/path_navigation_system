@@ -1,0 +1,1 @@
+tensorboard --logdir=C:\Users\Saurish\Documents\GitHub\path_follower_bot\train_result\model1(WholeData)(Inception)\retrain_logs --host localhost --port 8088
